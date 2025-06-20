@@ -1,6 +1,16 @@
-![Github Forks](https://img.shields.io/github/forks/Yixin0313/personal-homepage-template?style=flat)
-![Github Stars](https://img.shields.io/github/stars/Yixin0313/personal-homepage-template?style=flat)
-![License](https://img.shields.io/github/license/Yixin0313/personal-homepage-template)
+## ################################# 2025年6月20日开始，GF更新 #######
+## 删除某一板块
+   1）如果不需要某个板块，需要删除
+      a.可以直接删除 `contents` 文件夹下对应的 `.md` 文件。
+      b.需要删除 index.html 文件中的对应内容。
+      c.需要删除 scripts.js 文件中的对应内容。
+      d.如果有图片，可以删除 `static/assets/img` 文件夹下对应的图片。
+      e.如果有引用的其他文件，可以删除 `static/assets/files` 文件夹下对应的文件。
+      f.如果有引用的其他网页，可以删除 `static/assets/links` 文件夹下对应的文件。
+      g.如果有引用的其他网页的图片，可以删除 `static/assets/links` 文件夹下对应的图片。
+
+
+## ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 通用个人主页模板：适用于学术和求职场景 | A general-purpose template: suitable for both academic and professional use.
 
@@ -72,13 +82,3 @@ Fire up a browser and go to `https://<username>.github.io`
 Copyright Yixin Huang, 2025. Licensed under an MIT license. You can copy and mess with this template.
 
 
-## ################################# 2025年6月20日开始，GF更新 #######
-## 删除某一板块
-   1）如果不需要某个板块，需要删除
-      a.可以直接删除 `contents` 文件夹下对应的 `.md` 文件。
-      b.需要删除 index.html 文件中的对应内容。
-      c.需要删除 scripts.js 文件中的对应内容。
-      d.如果有图片，可以删除 `static/assets/img` 文件夹下对应的图片。
-      e.如果有引用的其他文件，可以删除 `static/assets/files` 文件夹下对应的文件。
-      f.如果有引用的其他网页，可以删除 `static/assets/links` 文件夹下对应的文件。
-      g.如果有引用的其他网页的图片，可以删除 `static/assets/links` 文件夹下对应的图片。
