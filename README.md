@@ -70,3 +70,15 @@ Fire up a browser and go to `https://<username>.github.io`
 本项目基于 MIT 许可协议，你可以自由使用和修改此模板。 Yixin Huang 2025年2月7号
 
 Copyright Yixin Huang, 2025. Licensed under an MIT license. You can copy and mess with this template.
+
+
+## ################################# 2025年6月20日开始，GF更新 #######
+## 删除某一板块
+   1）如果不需要某个板块，需要删除
+      a.可以直接删除 `contents` 文件夹下对应的 `.md` 文件。
+      b.需要删除 index.html 文件中的对应内容。
+      c.需要删除 scripts.js 文件中的对应内容。
+      d.如果有图片，可以删除 `static/assets/img` 文件夹下对应的图片。
+      e.如果有引用的其他文件，可以删除 `static/assets/files` 文件夹下对应的文件。
+      f.如果有引用的其他网页，可以删除 `static/assets/links` 文件夹下对应的文件。
+      g.如果有引用的其他网页的图片，可以删除 `static/assets/links` 文件夹下对应的图片。
